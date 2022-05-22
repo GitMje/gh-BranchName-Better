@@ -27,3 +27,4 @@ user/trex/jurassic-park-project
 bug/645-insecure-password-reset
 feature/646-new-checkbox
 feature/647-update-radio-button
+bug/689-pen-test-finding
